@@ -18,6 +18,7 @@ MCU: STM32F1xx for receiving firmware from ESP32 and booting it to flash memory
 ![image](https://github.com/user-attachments/assets/e3a4c5c4-43d2-4eb1-b751-6e9c2f29d198)
 
 # Communication between ESP32 and STM32
+Flow 
 ![image](https://github.com/user-attachments/assets/c81498a8-a756-4e53-9bb9-70e4ef99d63e)
 
 Start Message
